@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "animejs": "^4.0.2",
+    "aos": "^2.3.4",
+    "canvas-confetti": "^1.9.3",
+    "gsap": "^3.13.0",
+    "howler": "^2.2.4",
+    "lottie-web": "^5.12.2",
+    "party-js": "^2.2.0",
+    "scrollreveal": "^4.0.9",
+    "swiper": "^11.2.6",
+    "tailwindcss": "^4.1.7",
+    "three": "^0.176.0",
+    "typed.js": "^2.1.0"
+  }
+}
